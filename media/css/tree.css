@@ -1,0 +1,140 @@
+@media screen {
+	.wrap-tree.show ul {
+		display: block !important;
+	}
+	.wrap-tree.show li .text .checkbox {
+		display: inline-block;
+	}
+	.wrap-tree.show li .text .fa {
+		display: none;
+	}
+	.wrap-tree .title-tree {
+		color: #3d3d3d;
+		font-size: 15px;
+		font-weight: 400;
+		margin-bottom: 8px;
+		display: block;
+	}
+
+	.list-tree {
+		padding: 0;
+		margin: 0;
+		position: relative;
+	}
+	.list-tree li {
+		display: block;
+		color: #2d2d2d;
+		font-size: 14px;
+		font-weight: 600;
+		margin-bottom: 10px;
+		position: relative;
+	}
+	.list-tree li ul {
+		display: none;
+		z-index: 0;
+	}
+	.list-tree li:before {
+		content: '';
+		width: 1px;
+		height: 100%;
+		top: 0;
+		left: -15px;
+		position: absolute;
+		background: #d0d0d0;
+		z-index: 0;
+	}
+	.list-tree li:last-child:before {
+		display: none;
+	}
+	.list-tree li .text {
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		padding: 7px 15px 7px;
+		display: inline-block;
+		background: white;
+		position: relative;
+		z-index: 1;
+		cursor: pointer;
+	}
+	.list-tree li .text:hover, .list-tree li .text.active {
+		background: #f3f3f3;
+	}
+	.list-tree li .text .checkbox {
+		display: inline-block;
+		min-height: 0;
+		position: relative;
+		top: 2px;
+		margin-right: 5px;
+		display: none;
+	}
+	.list-tree li .text-idioma .fa {
+		display: inline-block !important;
+	}
+	.list-tree li .text-select {
+		background: none;
+		padding: 0;
+	}
+	.list-tree li .text-select select {
+		background: white;
+		border: none;
+		padding: 0 12px;
+	}
+	.list-tree li .arq {
+		color: #67afe9;
+	}
+	.list-tree li .fa {
+		margin-right: 5px;
+		display: inline-block;
+	}
+	.list-tree li .type {
+		color: #acadae;
+		text-transform: uppercase;
+		font-size: 12px;
+		font-weight: 400;
+		padding: 0 5px;
+	}
+	.list-tree li > ul {
+		padding-top: 10px;
+		padding-left: 30px;
+		position: relative;
+	}
+	.list-tree li > ul .text:before {
+		content: '';
+		width: 1px;
+		height: 200%;
+		top: -16px;
+		left: -16px;
+		position: absolute;
+		background: #d0d0d0;
+		z-index: 0;
+	}
+	.list-tree li > ul .text:after {
+		content: '';
+		width: 14px;
+		height: 1px;
+		top: 50%;
+		left: -15px;
+		position: absolute;
+		background: #d0d0d0;
+		z-index: 0;
+	}
+	.list-tree li > ul > li:last-child {
+		margin-bottom: 0;
+	}
+	.list-tree li > ul > li .newDownload {
+		opacity: 0;
+	}
+	.list-tree li > ul > li:hover .newDownload {
+		opacity: 1;
+	}
+	.list-tree li > ul li:last-child > .text:before {
+		height: 100%;
+	}
+	.list-tree > li:before {
+		left: 15px;
+		top: 13px;
+	}
+	.list-tree > li:last-child {
+		margin-bottom: 0;
+	}
+}
