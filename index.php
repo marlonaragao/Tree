@@ -32,26 +32,26 @@
 				<li>
 					<span class="text text-idioma">
 						<i class="fa fa-folder-open"></i>
-						Produtos
+						Diretório 1
 					</span>
 					<ul class="no-list">
 						<li>
 							<span class="text text-idioma">
 								<i class="fa fa-folder-open"></i>
-								Português
+								Diretório 1.1
 							</span>
 							<ul class="no-list">
 								<li>
 									<span class="text text-idioma">
 										<i class="fa fa-folder-open"></i>
-										XPTO
+										Diretório 1.1.1
 									</span>
 									<ul class="no-list">
 										<li>
 											<a class="text arq">
 												<input type="checkbox" name="" value="30" class="checkbox">
 												<i class="fa fa-cloud-download"></i>
-												fsdfsdf
+												Arquivo 1.1.1.1
 											</a>
 											<span class="type">Premium</span>
 										</li>
@@ -59,7 +59,7 @@
 											<a class="text arq">
 												<input type="checkbox" name="" value="31" class="checkbox">
 												<i class="fa fa-cloud-download"></i>
-												fsdfsdf
+												Arquivo 1.1.1.2
 											</a>
 											<span class="type">Premium</span>
 										</li>
@@ -72,14 +72,14 @@
 				<li>
 					<span class="text text-idioma">
 						<i class="fa fa-folder-open"></i>
-						Produtos
+						Diretório 2
 					</span>
 					<ul class="no-list">
 						<li>
 							<a class="text arq">
 								<input type="checkbox" name="" value="30" class="checkbox">
 								<i class="fa fa-cloud-download"></i>
-								fsdfsdf
+								Arquivo 2.1
 							</a>
 							<span class="type">Premium</span>
 						</li>
@@ -87,7 +87,7 @@
 							<a class="text arq">
 								<input type="checkbox" name="" value="31" class="checkbox">
 								<i class="fa fa-cloud-download"></i>
-								fsdfsdf
+								Arquivo 2.2
 							</a>
 							<span class="type">Premium</span>
 						</li>
@@ -96,20 +96,20 @@
 				<li>
 					<span class="text text-idioma">
 						<i class="fa fa-folder-open"></i>
-						Produtos
+						Diretório 3
 					</span>
 					<ul class="no-list">
 						<li>
 							<span class="text text-idioma">
 								<i class="fa fa-folder-open"></i>
-								XJ6
+								Diretório 3.1
 							</span>
 							<ul class="no-list">
 								<li>
 									<a class="text arq">
 										<input type="checkbox" name="" value="30" class="checkbox">
 										<i class="fa fa-cloud-download"></i>
-										fsdfsdf
+										Arquivo 3.1.1
 									</a>
 									<span class="type">Premium</span>
 								</li>
@@ -117,7 +117,7 @@
 									<a class="text arq">
 										<input type="checkbox" name="" value="31" class="checkbox">
 										<i class="fa fa-cloud-download"></i>
-										fsdfsdf
+										Arquivo 3.1.2
 									</a>
 									<span class="type">Premium</span>
 								</li>
@@ -126,20 +126,20 @@
 						<li>
 							<span class="text text-idioma">
 								<i class="fa fa-folder-open"></i>
-								XJ8
+								Diretório 3.2
 							</span>
 							<ul class="no-list">
 								<li>
 									<span class="text text-idioma">
 										<i class="fa fa-folder-open"></i>
-										XJ8
+										Diretório 3.2.1
 									</span>
 									<ul class="no-list">
 										<li>
 											<a class="text arq">
 												<input type="checkbox" name="" value="30" class="checkbox">
 												<i class="fa fa-cloud-download"></i>
-												fsdfsdf
+												Diretório 3.2.1.1
 											</a>
 											<span class="type">Premium</span>
 										</li>
@@ -147,7 +147,7 @@
 											<a class="text arq">
 												<input type="checkbox" name="" value="31" class="checkbox">
 												<i class="fa fa-cloud-download"></i>
-												fsdfsdf
+												Diretório 3.2.1.2
 											</a>
 											<span class="type">Premium</span>
 										</li>
@@ -157,7 +157,7 @@
 									<a class="text arq">
 										<input type="checkbox" name="" value="31" class="checkbox">
 										<i class="fa fa-cloud-download"></i>
-										fsdfsdf
+										Arquivo 3.2.1
 									</a>
 									<span class="type">Premium</span>
 								</li>

@@ -55,6 +55,7 @@
 		position: relative;
 		z-index: 1;
 		cursor: pointer;
+		font-size: 14px;
 	}
 	.list-tree li .text:hover, .list-tree li .text.active {
 		background: #f3f3f3;
@@ -102,7 +103,7 @@
 		content: '';
 		width: 1px;
 		height: 200%;
-		top: -16px;
+		top: -14px;
 		left: -16px;
 		position: absolute;
 		background: #d0d0d0;
